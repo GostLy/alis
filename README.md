@@ -1,4 +1,6 @@
-# alis
+# alis (Modified by GostLy)
+
+Edited conf files; Added packages and hooks; Edited the size of the boot partition because I kept getting an error that the device was full towards the end of the install.
 
 ![Arch Linux](https://raw.githubusercontent.com/picodotdev/alis/master/images/archlinux-badge.svg)
 ![Bash](https://raw.githubusercontent.com/picodotdev/alis/master/images/sh-bash-badge.svg)
